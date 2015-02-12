@@ -1,0 +1,55 @@
+Lenkungsausschuss
+	höchste Instanz in einem Projekt
+	entscheidet über Änderung an Ziel, Umfang, Termin, Budget
+		evtl auch Abbruch
+	besteht aus Auftraggeber, Senior Manager, Mitarbeitervertretern, Projektmanager ...
+	
+Projektbüro aka Projectoffice
+	zentrale Verwaltung
+	unterstützung des Projektmanagers
+
+Projectmanagementoffice
+	
+Erfolgsfaktoren und Schwierigkeiten
+	Budget
+		Personal
+	Planung
+		realistisch
+		sollte nicht zu optimistisch
+		kenne den Kontext
+		->sowohl Auftraggeber als auch Zielgruppe
+	Kommunikation
+		Formal: Berichte etc
+		Informal: alles weitere
+		nach Innen und Außen
+	Team
+		Teambildung
+		Teamwork
+		möglichst konstant
+		Skills
+		Softskills(Freundlichkeit und ähnliches)
+		->Klima
+		...
+	Projektmanager
+		Zielformulierung
+		Organisation
+		Führung
+		-> Motivation
+		Rechtliches beachten
+		
+Projektphasen
+	Wasserfallmodell
+		aufeinander aufbauent
+		keine Rückschritte
+		sequentiell
+		__funktioniert nicht__
+			Welt komplizierter als vorher absehbar
+			Faktor Mensch unbeachtet
+			Änderungen nicht erwünscht
+	Spiral Model of Software Development and Enhancement
+		Grundlage für alles heutige
+
+Kernprozesse des Projektmanagements
+	Monitoring und Controlling
+		Initiating -> Planning <-> Executing -> Closing
+		
