@@ -66,13 +66,14 @@
 		+ 4 Phasen, die in Iterationen unterteilt werden
 
 + Kernprozesse
-![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/MonitoringAndControlling.png "So oft wie ich das schon gesehen hab, muss es wichtig sein")
+![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/MonitoringAndControlling.png "CC BY NC SA Jörg Pechau")
 	+ 5 Prozessgruppen
 		+ Initiating
 		+ Planning
 		+ Executing
 		+ Monitoring & Controlling
 		+ Closing
+	+ Prozesse greifen auf jeder Ebene: Projekt, Phasen, Subphasen ...
 	+ wiederholen sich und interagieren mit einander
 	+ fortgehend anpassen
 	+ Initiating
@@ -100,7 +101,13 @@
 		+ Team managen
 		+ zu jeder Zeit
 	+ Monitoring and Controlling
-		+ Überwachung des ganzen
+		+ Überwachung aller Prozesse(auch sich selbst?)
 		+ Statusberichte
 		+ gegen Plan prüfen
-		+ 
+		+ Risiken, Abweichungen -> Gegenmaßnahmen
+		+ Qualitätssicherung
+	+ Closing
+		+ Abschluss einer Phase oder sogar des Projektes(wenns nicht um Flughäfen geht, werden die sogar mal fertig ^^)
+		+ evtl mit Abnahme
+
++ 
