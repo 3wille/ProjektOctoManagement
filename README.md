@@ -66,7 +66,7 @@
 		+ 4 Phasen, die in Iterationen unterteilt werden
 
 + Kernprozesse
-![alt text](D:\Dokumente\Uni\PM\MonitoringAndControlling.png "So oft wie ich das schon gesehen hab, muss es wichtig sein")
+![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/MonitoringAndControlling.png "So oft wie ich das schon gesehen hab, muss es wichtig sein")
 	+ 5 Prozessgruppen
 		+ Initiating
 		+ Planning
@@ -83,4 +83,24 @@
 			+ Stakeholder
 		+ einmal zum Projektstart und zu jeder neuen Phase
 	+ Planning
+		+ Dinge klären
+			+ was tun? wer?
+			+ Kosten
+			+ Dauer
+			+ Termine?
+			+ Abhängigkeiten
+		+ beinhaltet auch Planung für:
+			+ Qualität
+			+ Kommunikation
+			+ Human Resource
+		+ zum Start, zu jeder Phase, jeder Änderung
+	+ Executing
+		+ Pläne ausführen (oh wonder ^^)
+		+ stetig Qualität sichern
+		+ Team managen
+		+ zu jeder Zeit
+	+ Monitoring and Controlling
+		+ Überwachung des ganzen
+		+ Statusberichte
+		+ gegen Plan prüfen
 		+ 
