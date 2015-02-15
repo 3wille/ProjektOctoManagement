@@ -269,5 +269,13 @@
 		+ Planungstools
 		+ Ticketsysteme
 
-	+ Dauer vs Aufwand?
-		+ 
+	+ Dauer/Aufwand
+		+ was ist was?
+			+ Aufwand bleibt für eine bestimmte Aufgabe gleich
+			+ Dauer kann z.B. durch mehr Personal reduziert werden
+		+ Schätzen
+			+ je länger das Projekt läuft, desto besser schätzt man
+			+ "wir brauchen mindestens ..."
+			+ auch Projektfortschritt wird geschätzt
+			+ immer durch Experten
+			+ nicht zu grob, nicht zu fein
