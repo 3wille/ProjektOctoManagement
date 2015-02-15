@@ -240,8 +240,9 @@
 			+ Mindmaps
 			+ Tabellen
 			+ Kombinationen
+			
 		![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/plancycle.png "CC BY NC SA Jörg Pechau")
-	+ Projektstrukturplan(Work Breakdown Structure WBS)
+	+ Projektstrukturplan PSP(Work Breakdown Structure WBS)
 		+ hilft beim Verstehen des Projektes
 		+ Grundlage für Kommunikation
 		+ Projektstrukturnach:
@@ -249,4 +250,24 @@
 			+ Objekten des Projektgegenstands
 			+ Phasen
 			+ Organisation
+		+ How?:
+			+ Projekt so lange zerlegen, bis es übersichtlich ist
+			+ auch PM gehört in PSP
+			+ Vergleiche ähnliche Projekte
+			+ aus versch. Ansätzen wählen
+		+ versch. Aufbauweisen
+			+ root: Projekt
+			+ Ebene 1: erste Einteilung, z.B. Phasen, Teilprojekte, Objekte
+			+ Ebene 2: weitere Einteilung, z.B. Fachliche Dinge, Objekte weiter untergliedert
+	+ Tools
+		+ Papier
+		+ Post-its
+		+ Whiteboard/Flipboard
+		+ Pinnwand/Karten
+		+ Kamera
+		+ Office Suite
+		+ Planungstools
+		+ Ticketsysteme
+
+	+ Dauer vs Aufwand?
 		+ 
