@@ -181,3 +181,140 @@
 					+ Budgets inkl. Puffer
 			+ (Stakeholder)
 				+ wichtigste SH + Aufgaben festhalten
+				+ SH ohne off. Aufgabe nicht in Projektauftrag
+	+ Projektdokumentation
+		+ Projektakte
+			+ alle projektbezogenen Dokumente
+			+ enthält Projekt-
+				+ Auftrag
+				+ Plan
+				+ Handbuch
+				+ Dokumentation
+				+ reports
+			+ physisch und digital gemixed
+			+ managed durch PM
+			+ fürs Team transparent
+		+ Projekttagebuch
+			+ chronoligsche Notizen
+			+ erwähnenswerte Ereignisse
+			+ evtl nicht nur PM 
+		+ Tools:
+			+ Papier
+			+ Datein
+			+ Wiki
+			+ andere Software
++ Projektstart
+	+ Infrastruktur einrichten
+	+ Start Monitoring&Controlling und Planing/Execution
+	+ Kick off
+		+ PM lädt Team, Owner + Stakeholder ein
+		+ Ziel, Orga und Rahmenbedingungen vorstellen
+		+ kurz, prägnant
+		+ erste Fragen klären
+		+ Abschluss: Social Event aka Suff ^^
+
++ Projektplanung
+	+ Wie?
+		+ Zerlegen in Strukturelemente
+		+ Schätzen des Aufwands
+		+ Anordnen der Strukturelemente nach fach, termin, sonst.
+		-> Projektdauer, -kosten
+	+ Wer?
+		+ PM
+		+ Team hilft beim "Wie?"
+		+ evtl Externe dazu ziehen
+	+ Projektplan
+		+ lebendig
+		+ Basis der Projektsteuerung
+		+ referenz für Fortschritt
+		+ besteht aus
+			+ Strukturplan
+			+ Terminplan: zeitl. Ablauf
+			+ Aufwandsplan: Schätzungen
+		+ Teil der Projektakte
+		+ realistisch und robust
+		+ Darstellungen
+			+ Ganntt-Diagramme
+			![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/gantt.png "CC BY NC SA Jörg Pechau")
+				+ reicht meist nicht aus
+			+ Mindmaps
+			+ Tabellen
+			+ Kombinationen
+			
+		![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/plancycle.png "CC BY NC SA Jörg Pechau")
+	+ Projektstrukturplan PSP(Work Breakdown Structure WBS)
+		+ hilft beim Verstehen des Projektes
+		+ Grundlage für Kommunikation
+		+ Projektstrukturnach:
+			+ Fach
+			+ Objekten des Projektgegenstands
+			+ Phasen
+			+ Organisation
+		+ How?:
+			+ Projekt so lange zerlegen, bis es übersichtlich ist
+			+ auch PM gehört in PSP
+			+ Vergleiche ähnliche Projekte
+			+ aus versch. Ansätzen wählen
+		+ versch. Aufbauweisen
+			+ root: Projekt
+			+ Ebene 1: erste Einteilung, z.B. Phasen, Teilprojekte, Objekte
+			+ Ebene 2: weitere Einteilung, z.B. Fachliche Dinge, Objekte weiter untergliedert
+	+ Tools
+		+ Papier
+		+ Post-its
+		+ Whiteboard/Flipboard
+		+ Pinnwand/Karten
+		+ Kamera
+		+ Office Suite
+		+ Planungstools
+		+ Ticketsysteme
+
+	+ Dauer/Aufwand
+		+ was ist was?
+			+ Aufwand bleibt für eine bestimmte Aufgabe gleich
+			+ Dauer kann z.B. durch mehr Personal reduziert werden
+		+ Schätzen
+			+ je länger das Projekt läuft, desto besser schätzt man
+			+ "wir brauchen mindestens ..."
+			+ auch Projektfortschritt wird geschätzt
+			+ rekursiv, Zerlegen und neu Schätzen
+			+ immer durch Experten
+			+ nicht zu grob, nicht zu fein
+	+ Von all dem zum Plan
+		+ grob
+			+ "Time boxing"
+				+ gegebener Zeitrahmen
+				+ fixe Meilensteine
+				+ variabler Umfang/Resourcen Einsatz
+			+ "Bottom up"
+				+ Fixer Umfang
+				+ variable Termine/Meilensteine
+			-> Abwägen zw. Termine, Umfang und Kosten
+	+ wenn man den ganzen Shit hat:
+		+ Iterationen
+			+ abgeschlossene Arbeitspakete
+			+ ähnliche möglichst kurze Länge
+		+ Meilensteinplan
+		+ Abhängigkeiten erkennen
+			+ als Netzplan darstellen (u.a. Gantt Diagramm)
+			+ kritischer Pfad
+				+ längste Pfad an Abhängigkeiten
+				-> mindestdauer
+		+ Optimieren
+			+ Parallelisieren
+			+ Puffer
+			+ Personal
+			+ Milestones
+	+ Guter Plan
+		+ Abhängigkeiten minimieren
+		+ auf Dauer/Personal optimiert
+		+ genüg Puffer
+		+ genug Milestones für Zwischenlieferungen und Abnahmen
+		+ genug Milestones für Synchronisierung
+		+ iterativ inkrementelle Planung
+	+ Planung, um Machbarkeit abzuschätzen/Durchführung
+	+ Initiale Planung
+		+ Projektstrukturplan erarbeiten und ggf. verfeifern
+		+ daraus Aufwandsschätzung Arbeitspakete
+		+ daraus Terminplan anpassen
+	+ bei Änderungen weiter anpassen
