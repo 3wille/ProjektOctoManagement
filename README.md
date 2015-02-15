@@ -277,5 +277,44 @@
 			+ je länger das Projekt läuft, desto besser schätzt man
 			+ "wir brauchen mindestens ..."
 			+ auch Projektfortschritt wird geschätzt
+			+ rekursiv, Zerlegen und neu Schätzen
 			+ immer durch Experten
 			+ nicht zu grob, nicht zu fein
+	+ Von all dem zum Plan
+		+ grob
+			+ "Time boxing"
+				+ gegebener Zeitrahmen
+				+ fixe Meilensteine
+				+ variabler Umfang/Resourcen Einsatz
+			+ "Bottom up"
+				+ Fixer Umfang
+				+ variable Termine/Meilensteine
+			-> Abwägen zw. Termine, Umfang und Kosten
+	+ wenn man den ganzen Shit hat:
+		+ Iterationen
+			+ abgeschlossene Arbeitspakete
+			+ ähnliche möglichst kurze Länge
+		+ Meilensteinplan
+		+ Abhängigkeiten erkennen
+			+ als Netzplan darstellen (u.a. Gantt Diagramm)
+			+ kritischer Pfad
+				+ längste Pfad an Abhängigkeiten
+				-> mindestdauer
+		+ Optimieren
+			+ Parallelisieren
+			+ Puffer
+			+ Personal
+			+ Milestones
+	+ Guter Plan
+		+ Abhängigkeiten minimieren
+		+ auf Dauer/Personal optimiert
+		+ genüg Puffer
+		+ genug Milestones für Zwischenlieferungen und Abnahmen
+		+ genug Milestones für Synchronisierung
+		+ iterativ inkrementelle Planung
+	+ Planung, um Machbarkeit abzuschätzen/Durchführung
+	+ Initiale Planung
+		+ Projektstrukturplan erarbeiten und ggf. verfeifern
+		+ daraus Aufwandsschätzung Arbeitspakete
+		+ daraus Terminplan anpassen
+	+ bei Änderungen weiter anpassen
