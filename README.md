@@ -181,3 +181,72 @@
 					+ Budgets inkl. Puffer
 			+ (Stakeholder)
 				+ wichtigste SH + Aufgaben festhalten
+				+ SH ohne off. Aufgabe nicht in Projektauftrag
+	+ Projektdokumentation
+		+ Projektakte
+			+ alle projektbezogenen Dokumente
+			+ enthält Projekt-
+				+ Auftrag
+				+ Plan
+				+ Handbuch
+				+ Dokumentation
+				+ reports
+			+ physisch und digital gemixed
+			+ managed durch PM
+			+ fürs Team transparent
+		+ Projekttagebuch
+			+ chronoligsche Notizen
+			+ erwähnenswerte Ereignisse
+			+ evtl nicht nur PM 
+		+ Tools:
+			+ Papier
+			+ Datein
+			+ Wiki
+			+ andere Software
++ Projektstart
+	+ Infrastruktur einrichten
+	+ Start Monitoring&Controlling und Planing/Execution
+	+ Kick off
+		+ PM lädt Team, Owner + Stakeholder ein
+		+ Ziel, Orga und Rahmenbedingungen vorstellen
+		+ kurz, prägnant
+		+ erste Fragen klären
+		+ Abschluss: Social Event aka Suff ^^
+
++ Projektplanung
+	+ Wie?
+		+ Zerlegen in Strukturelemente
+		+ Schätzen des Aufwands
+		+ Anordnen der Strukturelemente nach fach, termin, sonst.
+		-> Projektdauer, -kosten
+	+ Wer?
+		+ PM
+		+ Team hilft beim "Wie?"
+		+ evtl Externe dazu ziehen
+	+ Projektplan
+		+ lebendig
+		+ Basis der Projektsteuerung
+		+ referenz für Fortschritt
+		+ besteht aus
+			+ Strukturplan
+			+ Terminplan: zeitl. Ablauf
+			+ Aufwandsplan: Schätzungen
+		+ Teil der Projektakte
+		+ realistisch und robust
+		+ Darstellungen
+			+ Ganntt-Diagramme
+			![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/gantt.png "CC BY NC SA Jörg Pechau")
+				+ reicht meist nicht aus
+			+ Mindmaps
+			+ Tabellen
+			+ Kombinationen
+		![alt text](https://github.com/3wille/ProjektOctoManagement/blob/master/plancycle.png "CC BY NC SA Jörg Pechau")
+	+ Projektstrukturplan(Work Breakdown Structure WBS)
+		+ hilft beim Verstehen des Projektes
+		+ Grundlage für Kommunikation
+		+ Projektstrukturnach:
+			+ Fach
+			+ Objekten des Projektgegenstands
+			+ Phasen
+			+ Organisation
+		+ 
