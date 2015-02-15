@@ -45,6 +45,7 @@
 		+ Projekt Büro
 			+ unterstützt PM
 			+ Planung, Erfassung, Informationsverarbeitung
+	+ 
 
 + Erfolgsfaktoren
 	+ Eindeutiges Ziel
@@ -110,4 +111,73 @@
 		+ Abschluss einer Phase oder sogar des Projektes(wenns nicht um Flughäfen geht, werden die sogar mal fertig ^^)
 		+ evtl mit Abnahme
 
-+ 
++ Annahmen
+	+ als solche markiere, dann sind sie ok
+	+ schnellst möglich prüfen
+
++ Vor Annahme des Projektes
+	+ möglichst viel Rahmenbedingungen klären
+	+ machbarkeit abschätzen
+	+ ungeklärte Risiken durch Puffer berücksichtigen
+		+ es muss nicht alles geklärt werden, nur soweit dass wir uns an das Projekt trauen
+
+	+ Projektauftrag
+		+ beschreibt kurz das Projekt
+		+ evtl von PM
+		+ unterschrieben von Pr0 Owner und Manager Auftragnehmer
+			+ evtl auch PM
+		+ offizieller Projekt Start
+		+ Referenz für Entscheidungen
+			+ Ziel
+			+ Umfang
+			+ Zeitrahmen
+			+ Ressourcen
+		+ Beinhaltet
+			+ Ziel
+			+ Kriterien zur Zielerreichung(wann ist das Ziel erreicht?)
+			+ Bedingungen
+			+ Ressourcen
+			+ Stakeholder
+
+		+ Projektziel/gegenstand
+			+ Projektziel
+				+ verständlich
+				+ eindeutig
+				+ unter den Bedingungen erreichbar
+				+ messbar
+				+ allen bekannt
+			+ Projektgegenstand
+				+ Umsetzung des Ziels
+				+ Ergebnis
+			+ PM plant und managed Erreichung des Ziel
+			+ Team setzt Gegenstand um
+
+		+ Organisation
+			+ Beschreibung von 
+				+ Aufbau
+				+ Hierarchie
+				+ Prozessen
+			+ Nennung von
+				+ PM
+				+ Entscheidungsträger
+				+ Lenkungsausschuss
+				+ Team
+			+ Rahmenbedingungen
+				+ Zeit + Ort
+				+ Standards?
+				+ Rechtlichen Krams
+				+ werden häufig im Projekthandbuch gesammelt
+			+ Resourcen
+				+ Bedarf abschätzen
+					+ welche/wie viele
+					+ von wem
+					+ (wie lange)
+				+ Resourcen beschränken
+					+ mehr bewilligt der Lenkungsausschuss
+				+ typischer Krams
+					+ Personal (als zeitl. Verlauf, "Gebirge")
+						+ erarbeitet von PM + Experten
+					+ Material + ext. Dienstleistungen
+					+ Budgets inkl. Puffer
+			+ (Stakeholder)
+				+ wichtigste SH + Aufgaben festhalten
