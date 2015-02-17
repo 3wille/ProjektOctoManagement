@@ -478,3 +478,67 @@
 		- Zielgerichtet mit anderen arbeiten
 		- Menschen im Projekt
 
++ Menschen
+	* unterscheiden sich in
+		- Interessen
+		- Motivation
+		- Hintergrund
+		-> Konflikte
+	* PMs
+		- Soft Skills
+	* Team
+		- Entwicklung nach Tuckmann
+			+ Performing 
+			<=>
+			+ Norming
+			<=>
+			+ Storming
+			<=>
+			+ Forming
+		- läuft nicht immer tutti frutti
++ Soft Skills PM
+	* Projektkultur
+	* Kommunikation
+	* Vertrauen
+	* Motivation
+ 
++ Scrum
+	* PM framework
+	* agiles Vorgehen
+	* Erfordert Transparenz, den Mut loszulassen und Änderungswillen!
+	* Scrum Master
+		- unterstützt
+		- managed aber nicht
+	* Team
+		- selbstorganisiert 
+		- ändert sich wenn überhaupt nach einem Sprint
+		- nicht zu groß (max 9)
+		- am besten nicht gerade Anzahl
+	* Product Backlog
+		- Sammlung der funktionaler und nicht funktionaler Anforderungen
+		- Aufwand relativ und abstrakt geschätzt
+		- Form: Epics, Topics, User Stories
+	* Sprint Backlog
+		- Aufgaben für einen Sprint
+		- User Storys zu notwendige Tasks
+	* Prozess
+		- generell
+			+ Time Boxing
+			+ Projekt in Sprints unterteilt
+				* zw 1-3 wochen lang
+				* fixer Scope
+				* kann abgebrochen werden
+				* potentiell lieferbares Ergebnis
+		- Daily Scrum
+			+ Was habe ich gestern getan
+			+ Was werde ich heute tun
+			+ Was behindert mich
+			-> Commitment zum Team
+			+ Scrum Master sammelt
+		- Sprint Review
+			+ Team präsentiert
+			+ P-Owner beurteilt
+			+ Scrum Master orgat und Dokumentiert
+		- Sprint Retrospektive
+			+ was lief, was nicht
+			+ Team
