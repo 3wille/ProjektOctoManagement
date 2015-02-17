@@ -318,3 +318,163 @@
 		+ daraus Aufwandsschätzung Arbeitspakete
 		+ daraus Terminplan anpassen
 	+ bei Änderungen weiter anpassen
+
++ Executing
+	+ Kommunikation
+		+ unbewusst > bewusst
+		+ „Man kann nicht nicht kommunizieren!“
+		+ transparent
+		+ proaktiv
+		-> Vertrauen
+		+ wer mit wem:
+			+ Stakeholder: PM, LA
+			+ Lenkungsausschus, Stakeholder, PM
+			+ PM: Team, LA, Stakeholder, Externe
+			+ Team: PM, 
+		+ wie: KISS, gezielt, immer, vertraulich wo nötig...
+		+ wann: immer, so viel möglich und shit
+		+ welche mittel: direkt, VoIP, Meetings, Flurfunk
+		+ Dokumentation: Protokolle, Memos, Report
+		+ Planen: Meetings, Infrastruktur
+		+ Excel Tabellen (muss excel sein, sonst kein guter PM!!)
+	+ Teamführung
+		+ Was
+			+ Ziele geben
+			+ Motivieren
+			+ Fortschritt verfolgen
+			+ Feedback
+			+ Konflikte lösen
+		+ Wie
+			+ eng
+				+ schnelle, einheitliche Entscheidungen
+				+ besser als der Führer wirds nicht ^^
+			+ partizipativ bis Selbstorganisiert
+				+ bessere Entscheidungen?
+				+ dauert länger
+	+ QM
+		+ QS Prozesse verstehen
+		+ Zeit dafür haben
+		+ nicht optional
+	+ Umsetzung
+		+ macht das Team aka dat wird schonn
+
++ Monitoring and Controlling
+	+ es ist ein Zyklus ^^
+		+ Stand erheben
+		+ Analysieren, bewerten
+		+ Aktionen ableiten
+	+ Gegenwart und Zukunft im Blick behalten
+		+ Budget
+		+ QS
+		+ Fortschritt
+		+ Plan überarbeiten
+	+ Reporting
+		+ Dokumentiert
+		+ verfolgt Ziel
+		+ hat sogar Inhalt
+		+ am besten regelmässig
+		+ am besten festhalten
+		+ Was?
+			+ Fertigstellungsgrad
+			+ (Rest-)Aufwand
+			+ Qualität
+			+ Kosten
+			+ 80:20 Regel
+				+ 80% Ergebnisse in 20% Zeit
+				+ 20% Zeit mit 80% des Aufwands
+		+ Detaillierungsgrad
+			+ balance zwischen Nerv und Detail
+			+ z.B. 1x pro Woche formale Reports auf Arbeitspaketebene
+			+ je länger das Projekt, desto seltener 
+		+ Qualität vs Quantität
+			+ nicht nur zahlen, sondern auch Aussagen
+			+ und umgekehrt
+			+ Planabweichungen hervorheben
+		+ Quellen
+			+ Flurfunk
+			+ Meetings
+			+ Berichte
+			+ Tools wie Zeiterfassung, Ticketing
+	+ Was damit tun?
+		+ Stand festhalten
+		+ Messdaten
+		+ Agieren
+		+ Analysieren
+		+ Bewerten
+		+ Eskalation
+		+ umplanen
+	+ Change Management
+		+ Change requests
+			+ Auslöser
+			+ beteiligte Rollen
+			+ benötigte Schritte
+			+ Zeit
+			+ Ergebnis
+		+ Chance + Risiko
+		+ Kunde ist nur so halb König
+		+ mit Änderungen kriegt man 
+			+ ganz viel Kohle
+			+ den Kunden glücklich
+	+ Risk-Management
+		+ Kategorien(ranked)
+			+ Menschen
+			+ Politik
+			+ fehlende Erfahrung
+			+ Prozesse/Vorgehen
+			+ Technologie
+			+ Tools
+		+ Folge
+			+ Terminverzug
+			+ Kosten
+			+ Abbruch(worst case)
+		+ was damit tun?
+			+ regelmässig überprüfen
+			+ analysieren
+			+ Risikopläne
+			+ puffer
+		+ Bewertung
+			+ Eintrittswahrscheinlichkeit
+			+ Auswirking
+		+ Wer kümmert sich
+			+ alle melden
+			+ PM verantwortlich
+
++ Closing
+	+ need: überprüfbares Ziel
+	+ formaler Teil
+		+ Abnahme
+			+ muss der Besteller warnehmen
+			+ wesentliche Mängel müssen beanstandet werden
+			+ kann auch in Teilen abgenommen werden
+			+ danach
+				+ Übergabe der im Auftrag vereinbarten Dinge
+				+ Rechnung
+		+ Ergebnissicherung
+			+ Erfahrungen
+			+ Dokumentationen
+		+ evtl Abschlussbericht
+		+ Abbau der Infrastruktur
+		+ auflösen der Gremien und Teams
+	- Lernen
+		+ Wirtschaftliche Berechnung
+		+ Nachkalkulation
+		+ Ergebnissicherung
+	- informeller Teil
+		+ Abschlussmeeting
+			+ Ergebnis vorstellen
+			+ Ergebnis wertschätzen
+			+ Erfahrungen betrachten
+		+ PARTEEEEY HART
+
++ Erfolgsfaktoren
+	* hart
+		- Management Unterstützung
+		- klarer Projektauftrag
+		- PM
+			+ guter Plan
+			+ Monitor & Control
+			+ profi umsetzung
+	* weich
+		- Zielgerichtet mit anderen arbeiten
+		- Menschen im Projekt
+
